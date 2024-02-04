@@ -1,2 +1,4 @@
-# python_ds_handbook
-Book "Python Data Science Handbook"
+# Book "Python Data Science Handbook"
+
+# Запуск:
+jupyter-notebook
